@@ -1,0 +1,40 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend-search-ads/node_modules
+/frontend-search-ads/.pnp
+/frontend-search-ads/.pnp.js
+
+# testing
+/frontend-search-ads/coverage
+
+# next.js
+/frontend-search-ads/.next/
+/frontend-search-ads/out/
+
+# production
+/frontend-search-ads/build
+
+# misc
+/frontend-search-ads/.DS_Store
+/frontend-search-ads/*.pem
+
+# debug
+/frontend-search-ads/npm-debug.log*
+/frontend-search-ads/yarn-debug.log*
+/frontend-search-ads/yarn-error.log*
+
+# local env files
+/frontend-search-ads/.env*.local
+
+# vercel
+/frontend-search-ads/.vercel
+
+# typescript
+/frontend-search-ads/*.tsbuildinfo
+/frontend-search-ads/next-env.d.ts
+
+
+# BACKEND
+/backend-ads/node_modules
+/backend-ads/.env
