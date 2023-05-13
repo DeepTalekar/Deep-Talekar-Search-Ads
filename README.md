@@ -1,7 +1,5 @@
 # Search Advertisements
 
----
-
 ## Getting Started
 
 - After cloning the repo we need to install the dependencies for frontend as well as backend
