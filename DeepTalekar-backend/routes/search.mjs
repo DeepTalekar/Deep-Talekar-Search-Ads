@@ -56,7 +56,12 @@ router.post("/", async (req, res, next) => {
                         'companyName': '$company.name',
                         'imageUrl': 1,
                         'url': '$company.url',
-                        'companyId': 1
+                        'companyId': 1,
+                        'CTA': 1
+                    }
+                }, {
+                    '$sort': {
+                        'companyName': 1
                     }
                 }
             ]).toArray();

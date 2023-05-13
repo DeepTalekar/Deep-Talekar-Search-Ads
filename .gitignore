@@ -1,40 +1,40 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/frontend-search-ads/node_modules
-/frontend-search-ads/.pnp
-/frontend-search-ads/.pnp.js
+/DeepTalekar-frontend/node_modules
+/DeepTalekar-frontend/.pnp
+/DeepTalekar-frontend/.pnp.js
 
 # testing
-/frontend-search-ads/coverage
+/DeepTalekar-frontend/coverage
 
 # next.js
-/frontend-search-ads/.next/
-/frontend-search-ads/out/
+/DeepTalekar-frontend/.next/
+/DeepTalekar-frontend/out/
 
 # production
-/frontend-search-ads/build
+/DeepTalekar-frontend/build
 
 # misc
-/frontend-search-ads/.DS_Store
-/frontend-search-ads/*.pem
+/DeepTalekar-frontend/.DS_Store
+/DeepTalekar-frontend/*.pem
 
 # debug
-/frontend-search-ads/npm-debug.log*
-/frontend-search-ads/yarn-debug.log*
-/frontend-search-ads/yarn-error.log*
+/DeepTalekar-frontend/npm-debug.log*
+/DeepTalekar-frontend/yarn-debug.log*
+/DeepTalekar-frontend/yarn-error.log*
 
 # local env files
-/frontend-search-ads/.env*.local
+/DeepTalekar-frontend/.env*.local
 
 # vercel
-/frontend-search-ads/.vercel
+/DeepTalekar-frontend/.vercel
 
 # typescript
-/frontend-search-ads/*.tsbuildinfo
-/frontend-search-ads/next-env.d.ts
+/DeepTalekar-frontend/*.tsbuildinfo
+/DeepTalekar-frontend/next-env.d.ts
 
 
 # BACKEND
-/backend-ads/node_modules
-/backend-ads/.env
+/DeepTalekar-backend/node_modules
+/DeepTalekar-backend/.env
